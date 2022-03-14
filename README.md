@@ -1,4 +1,4 @@
-# hcr
+# Handwritten Character Recognition using Python and OpenCV - Image Processing
 Training a neural network to recognize handwritten characters (both simple and capital letters) using Python and TensorFlow. 
 For the image set, **EMNIST** data set is used.
 
